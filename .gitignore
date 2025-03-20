@@ -1,7 +1,8 @@
 # ignore dot files/directories
 .*
 !.gitignore
-
+*.tar.gz
+*.zip
 *.autosave
 *.pyc
 *.user
